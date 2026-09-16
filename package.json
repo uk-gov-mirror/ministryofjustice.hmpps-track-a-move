@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/ministryofjustice/hmpps-track-a-move#readme",
   "overrides": {
-    "velocityjs": "2.1.6",
+    "velocityjs": "2.1.7",
     "mocha":{
       "diff":"9.0.0",
       "serialize-javascript":"7.0.5"
